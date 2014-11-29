@@ -24,4 +24,4 @@ https://github.com/khashabawy/company-checker/blob/master/platforms/android/ant-
 
 
 
-![Screenshot](screenshot.png?raw=true)
+![Screenshot](app-screenshot.png)
